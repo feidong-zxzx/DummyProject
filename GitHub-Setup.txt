@@ -1,0 +1,10 @@
+how to create a repo on GitHub
+1. Create a repo on GitHub
+2. Create a new project on local machine (say c:\Temp2\DummyProject)
+3. c:\Temp2\DummyProject>git init
+4. c:\Temp2\DummyProject>git add .
+5. c:\Temp2\DummyProject>git status
+6. c:\Temp2\DummyProject>git commit -m "initial checkin"
+7. c:\Temp2\DummyProject>git remote add origin https://github.com/feidong-zxzx/DummyProject.git
+8. enter Github userName and password
+
